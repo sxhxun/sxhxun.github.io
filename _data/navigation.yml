@@ -5,23 +5,11 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "Blog"
+    url: /blog/
+  
+  - title: "CV"
+    url: https://sxhxun.github.io/files/CV_08-12-2024.pdf
+  
   - title: "Publications"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/

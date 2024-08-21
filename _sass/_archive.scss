@@ -48,6 +48,16 @@
   }
 }
 
+.archive__thumbnail {
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+
+  img {
+    width: 700px;
+    height: 250px;
+  }
+}
+
 /* remove border*/
 .page__content {
 
