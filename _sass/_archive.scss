@@ -41,6 +41,7 @@
 
 .archive__item-title {
   margin-bottom: 0.25em;
+  font-size: $type-size-3;
   font-family: $sans-serif-narrow;
 
   a + a {
@@ -49,13 +50,10 @@
 }
 
 .archive__thumbnail {
+  width: 90%;
+  height: 40%;
   margin-top: 0.5em;
   margin-bottom: 1em;
-
-  img {
-    width: 700px;
-    height: 250px;
-  }
 }
 
 /* remove border*/
@@ -72,6 +70,7 @@
   font-size: $type-size-6;
 
   & + p {
+    width: 90%;
     text-indent: 0;
   }
 }
