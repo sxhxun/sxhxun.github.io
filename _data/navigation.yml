@@ -1,15 +1,22 @@
-# The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-
+# main links links
 main:
-  - title: "Blog"
-    url: /blog/
-  
-  - title: "CV"
-    url: https://sxhxun.github.io/files/CV_Sehyeon-Park.pdf
-  
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "News"
+    url: "/#-news"
+
   - title: "Publications"
-    url: /publications/
+    url: "/#-publications"
+
+  - title: "Educations"
+    url: "/#-educations"
+
+  # - title: "Honors and Awards"
+  #   url: "/#-honors-and-awards"
+
+  # - title: "Academic Activities "
+  #   url: "/#-academic-activities "
+
+  - title: "Internships"
+    url: "/#-internships"
